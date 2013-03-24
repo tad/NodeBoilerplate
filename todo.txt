@@ -1,0 +1,5 @@
+Type stuff to do here.
+
+Neato.
+
+copy con todo.txt <enter> ctl-Z <enter>

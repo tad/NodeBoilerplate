@@ -4,3 +4,6 @@ Node Project Boilerplate
 
 This is based off of James Sharp's excellent LetsCodeJavascript series of tutorials.
 
+For now, pull code.  I'm developing using webstorm.
+
+To do a "build" run jake.bat from the command line assuming you have node installed and are on Windows.
